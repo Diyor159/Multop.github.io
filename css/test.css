@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One');
+body{
+	padding: 0;
+	margin:0;
+
+
+}
+h1{
+	padding: 0;
+	margin:0;
+}
+.header{
+	background: url(https://i.ytimg.com/vi/K-yTrFDHpbw/maxresdefault.jpg) no-repeat center top/cover;
+	height: 900px;
+	font-family: 'Alfa Slab One', cursive;
+}
+.inform{
+	font-size:25px;
+	color:#228B22;
+	text-align: center;
+	margin-right: 300px;
+	padding-top:250px;
+}
+.section{
+
+	text-align: center;
+
+
+	background:#FFDBEE;
+}
+.kino{
+	padding-top:50px; 
+}
+.footer{
+	background:#FF00FF;
+	height:100px;
+}
+.footer_hop{
+	padding-top:30px;
+	color:#fff;
+	
+
+}
